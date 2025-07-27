@@ -1,2 +1,2 @@
 # Banking-Application
-Team Activity 2
+Cognizant Internship - Team Activity 2
